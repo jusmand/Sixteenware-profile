@@ -1,0 +1,86 @@
+@media screen and (max-width: 922px) {
+}
+
+@media screen and (max-width: 576px) {
+    #hero .hero-tagline {
+        font-size: 36px;
+        line-height: 72px;
+        width: 100%;
+    }
+
+    #hero .hero-tagline h1 {
+        line-height: 52px;
+        ont-weight: 700;
+        font-size: 42px;
+    }
+
+    #hero .hero-tagline p {
+        font-size: 14px;
+    }
+
+    #hero .img-hero {
+        width: 100%;
+        height: auto;
+    }
+
+    #layanan h2 {
+        font-size: 34px;
+    }
+
+    #layanan .sub-title {
+        font-size: 16px;
+    }
+
+    #layanan .card-layanan {
+        margin: 15px 0;
+    }
+
+    #search {
+        padding-top: 50px;
+    }
+
+    #search h2 {
+        font-size: 30px;
+        line-height: 72px;
+    }
+
+    #search p {
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+    }
+
+    #rekomendasi h2 {
+        font-size: 36px;
+        line-height: 72px;
+    }
+
+    #contact h3 {
+        font-size: 30px;
+
+        width: 100%;
+    }
+
+    #contact .kontak {
+        margin-top: 30px;
+        text-align: left;
+    }
+
+    #contact h6 {
+        margin-top: 30px;
+    }
+
+    footer img {
+        width: 80%;
+    }
+
+    footer p {
+        font-size: 9px;
+        text-align: center;
+        margin-left: -97px;
+        margin-top: -91px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+}
